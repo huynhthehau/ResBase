@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj": {}
+    "A:\\RestaurantManager\\RestaurantManager.Contracts\\RestaurantManager.Contracts.csproj": {}
   },
   "projects": {
-    "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj": {
+    "A:\\RestaurantManager\\RestaurantManager.Contracts\\RestaurantManager.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj",
+        "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager.Contracts\\RestaurantManager.Contracts.csproj",
         "projectName": "RestaurantManager.Contracts",
-        "projectPath": "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj",
+        "projectPath": "A:\\RestaurantManager\\RestaurantManager.Contracts\\RestaurantManager.Contracts.csproj",
         "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-        "outputPath": "A:\\RestaurantManager\\Restaurant.Contracts\\obj\\",
+        "outputPath": "A:\\RestaurantManager\\RestaurantManager.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",

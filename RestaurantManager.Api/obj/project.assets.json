@@ -1466,11 +1466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj",
+      "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj",
       "projectName": "RestaurantManager.Api",
-      "projectPath": "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj",
+      "projectPath": "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj",
       "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-      "outputPath": "A:\\RestaurantManager\\RestaurantManager\\obj\\",
+      "outputPath": "A:\\RestaurantManager\\RestaurantManager.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",

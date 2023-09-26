@@ -1,0 +1,15 @@
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Infrastructure.deps.json
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Infrastructure.dll
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Infrastructure.pdb
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Application.dll
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Application.pdb
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.csproj.AssemblyReference.cache
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.AssemblyInfoInputs.cache
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.AssemblyInfo.cs
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.csproj.CoreCompileInputs.cache
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.csproj.CopyComplete
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.dll
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\refint\RestaurantManager.Infrastructure.dll
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.pdb
+A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\ref\RestaurantManager.Infrastructure.dll

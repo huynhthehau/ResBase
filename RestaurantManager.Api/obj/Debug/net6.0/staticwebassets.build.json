@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "WpHJu6zT3r1Z2zKKO272jWypjtjQyKpJZ0+2TkL9aGs=",
-  "Source": "RestaurantManager",
-  "BasePath": "_content/RestaurantManager",
+  "Hash": "8yRYRwasfXpBTKr3c9qXmXAFuR1s0F1FVAe9DhqUuS0=",
+  "Source": "RestaurantManager.Api",
+  "BasePath": "_content/RestaurantManager.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

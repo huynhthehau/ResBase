@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xwHzMWfykMWNWiQ76PtoyiKZ3xNFcOXnOJwy++Aq61bSa+AAJ6/UhkH+Sc7pq9OON9n+Nv0Ny6BHcFkkVx3qA==",
+  "dgSpecHash": "4uLRhKgPYUzlma/goXo5S+aMeH7fvGhB7MOXY95cWHz+Nupa4DnZ0kY5HGYIw08lfhJybcWAv3KAOq6nARlRcg==",
   "success": true,
-  "projectFilePath": "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj",
+  "projectFilePath": "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

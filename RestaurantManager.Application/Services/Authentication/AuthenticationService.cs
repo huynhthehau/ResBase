@@ -1,9 +1,4 @@
 using RestaurantManager.Application.Common.Interfaces.Authentication;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RestaurantManager.Application.Services.Authentication
 {
@@ -17,10 +12,10 @@ namespace RestaurantManager.Application.Services.Authentication
         }
         public AuthenticationResult Login(string email, string password)
         {
-            return new AuthenticationResult(Guid.NewGuid(), "firstName","lastName","Email", "Token");
+            return new AuthenticationResult(Guid.NewGuid(), "firstName", "lastName", "Email", "Token");
         }
 
-        public AuthenticationResult Register(string firstName, string lastName, string email,string password)
+        public AuthenticationResult Register(string firstName, string lastName, string email, string password)
         {
             var userId = Guid.NewGuid();
             var token = _jwtTokenGenerator.GenerateToken(userId);

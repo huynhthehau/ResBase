@@ -23,7 +23,7 @@ namespace RestaurantManager.Infrastructure.Authentication
             var siginingCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(
                     Encoding.UTF8.GetBytes(_jwtSettings.Secret)
-                ),SecurityAlgorithms.HmacSha256);
+                ), SecurityAlgorithms.HmacSha256);
             var claims = new[]
             {
                 new Claim(JwtRegisteredClaimNames.Sub,userId.ToString())
@@ -32,7 +32,7 @@ namespace RestaurantManager.Infrastructure.Authentication
                                                         audience: _jwtSettings.Audience,
                                                      expires: _dateTimeProvider.UtcNow.AddMinutes(_jwtSettings.ExpiryMinutes),
                                                      claims: claims,
-                                                     signingCredentials:siginingCredentials);
+                                                     signingCredentials: siginingCredentials);
             return new JwtSecurityTokenHandler().WriteToken(securityToken);
         }
     }

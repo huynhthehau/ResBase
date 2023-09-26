@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj": {}
+    "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj": {}
   },
   "projects": {
     "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj": {
@@ -51,6 +51,80 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj",
+        "projectName": "RestaurantManager.Api",
+        "projectPath": "A:\\RestaurantManager\\RestaurantManager.Api\\RestaurantManager.Api.csproj",
+        "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
+        "outputPath": "A:\\RestaurantManager\\RestaurantManager.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj": {
+                "projectPath": "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj"
+              },
+              "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj": {
+                "projectPath": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj"
+              },
+              "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj": {
+                "projectPath": "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -183,80 +257,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj",
-        "projectName": "RestaurantManager.Api",
-        "projectPath": "A:\\RestaurantManager\\RestaurantManager\\RestaurantManager.Api.csproj",
-        "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-        "outputPath": "A:\\RestaurantManager\\RestaurantManager\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj": {
-                "projectPath": "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj"
-              },
-              "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj": {
-                "projectPath": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj"
-              },
-              "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj": {
-                "projectPath": "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

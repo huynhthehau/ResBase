@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bR7KxP8+WvhVv5uiY3dn55x8beLC/7cFy0BlxeKEhhss/LMG9M4hcfO85vxCJzGvwul2OAU27H/U1btsnXOr0Q==",
+  "dgSpecHash": "k/rr5G+B9u7RJ+JuWbHLEp1LiDH4fDLrMsz0THe3iFFMB0fKywxL8wPX5Ds1tcjFL2WKUzD60FPZTWiaSQnoXQ==",
   "success": true,
-  "projectFilePath": "A:\\RestaurantManager\\Restaurant.Contracts\\RestaurantManager.Contracts.csproj",
+  "projectFilePath": "A:\\RestaurantManager\\RestaurantManager.Contracts\\RestaurantManager.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -17,4 +17,8 @@
     <ProjectReference Include="..\RestaurantManager.Application\RestaurantManager.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Presistence\" />
+  </ItemGroup>
+
 </Project>

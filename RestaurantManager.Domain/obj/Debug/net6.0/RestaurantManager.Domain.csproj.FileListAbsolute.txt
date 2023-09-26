@@ -1,0 +1,12 @@
+A:\RestaurantManager\RestaurantManager.Domain\bin\Debug\net6.0\RestaurantManager.Domain.deps.json
+A:\RestaurantManager\RestaurantManager.Domain\bin\Debug\net6.0\RestaurantManager.Domain.dll
+A:\RestaurantManager\RestaurantManager.Domain\bin\Debug\net6.0\RestaurantManager.Domain.pdb
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.csproj.AssemblyReference.cache
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.AssemblyInfoInputs.cache
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.AssemblyInfo.cs
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.csproj.CoreCompileInputs.cache
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.dll
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\refint\RestaurantManager.Domain.dll
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\RestaurantManager.Domain.pdb
+A:\RestaurantManager\RestaurantManager.Domain\obj\Debug\net6.0\ref\RestaurantManager.Domain.dll
