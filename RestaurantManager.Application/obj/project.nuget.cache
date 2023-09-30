@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JhR00F5h3zYys8gvv6y4DLJXnHFNSk9b342PMJubg61miCOt1NzITYHUyojtUwjNzGjwbfS6cVf+9MH1XFbm+g==",
+  "dgSpecHash": "qK0szSUq8Aet9Q3XoOlN6TUHxIhGL92IWwKTpS+J+7rm1tU6AxzzIAvGYQWZvhl7kRtbx26vVs6AxzKXtV9Y3g==",
   "success": true,
-  "projectFilePath": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
+  "projectFilePath": "a:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj": {}
+    "a:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj": {}
   },
   "projects": {
-    "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj": {
+    "a:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
+        "projectUniqueName": "a:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
         "projectName": "RestaurantManager.Application",
-        "projectPath": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
+        "projectPath": "a:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
         "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-        "outputPath": "A:\\RestaurantManager\\RestaurantManager.Application\\obj\\",
+        "outputPath": "a:\\RestaurantManager\\RestaurantManager.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "A:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj": {
-                "projectPath": "A:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj"
+              "a:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj": {
+                "projectPath": "a:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "A:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj": {
+    "a:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj",
+        "projectUniqueName": "a:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj",
         "projectName": "RestaurantManager.Domain",
-        "projectPath": "A:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj",
+        "projectPath": "a:\\RestaurantManager\\RestaurantManager.Domain\\RestaurantManager.Domain.csproj",
         "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-        "outputPath": "A:\\RestaurantManager\\RestaurantManager.Domain\\obj\\",
+        "outputPath": "a:\\RestaurantManager\\RestaurantManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj": {
+    "a:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj",
+        "projectUniqueName": "a:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj",
         "projectName": "RestaurantManager.Infrastructure",
-        "projectPath": "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj",
+        "projectPath": "a:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\theha\\.nuget\\packages\\",
-        "outputPath": "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\obj\\",
+        "outputPath": "a:\\RestaurantManager\\RestaurantManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj": {
-                "projectPath": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj"
+              "a:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj": {
+                "projectPath": "a:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj"
               }
             }
           }

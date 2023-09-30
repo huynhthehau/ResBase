@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlUBCRwG/GhMiRYdJXBC39XrAqzESjdFUth7OxxRTU+vFZHPkmzGSB7WmYjXrOtigWoK1YDZgpVpUWC2s52pEQ==",
+  "dgSpecHash": "4U5gmCiBNwSjL5fU5CGhc5GCfofHO4EYiDPnyZa9lT9zXFYHnSVMOTcX9nqIEBWdl2sMCDUjVxXVmDNmE2/ZXg==",
   "success": true,
-  "projectFilePath": "A:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj",
+  "projectFilePath": "a:\\RestaurantManager\\RestaurantManager.Infrastructure\\RestaurantManager.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theha\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.22\\microsoft.aspnetcore.authentication.jwtbearer.6.0.22.nupkg.sha512",
     "C:\\Users\\theha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Net;
-using System.Xml.Linq;
 
-namespace RestaurantManager.Domain.Entity
+namespace RestaurantManager.Domain.Entities
+
 {
     public class Restaurant : BaseEntity
     {

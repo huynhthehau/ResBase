@@ -1,4 +1,4 @@
-namespace RestaurantManager.Domain.Entity
+namespace RestaurantManager.Domain.Entities
 {
     public class BaseEntity
     {
