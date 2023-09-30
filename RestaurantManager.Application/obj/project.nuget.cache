@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "C6dP5lDARXW/Fr1B8V7vmK9ChOE8h7YX5Y1ArwmPrkPzIGSlLITYxrksbjvXVhniAaNe6pUFG5ww374tlFynSQ==",
+  "dgSpecHash": "JhR00F5h3zYys8gvv6y4DLJXnHFNSk9b342PMJubg61miCOt1NzITYHUyojtUwjNzGjwbfS6cVf+9MH1XFbm+g==",
   "success": true,
   "projectFilePath": "A:\\RestaurantManager\\RestaurantManager.Application\\RestaurantManager.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\theha\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\theha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

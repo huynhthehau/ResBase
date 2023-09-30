@@ -1,20 +1,19 @@
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using RestaurantManager.Api.Errors;
-using RestaurantManager.Api.Filters;
-using RestaurantManager.Api.MIddlewares;
 using RestaurantManager.Infrastructure;
+using RestaurantManager.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 {
 
     // Add services to the container.
-    builder.Services.AddInfrastructure(builder.Configuration);
+    builder.Services
+        .AddApplication(builder.Configuration)
+        .AddInfrastructure(builder.Configuration);
     //builder.Services.AddControllers(options =>options.Filters.Add<ErrorHandlingFilterAttribute>());
     builder.Services.AddControllers();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
-    builder.Services.AddSingleton<ProblemDetailsFactory, RestaurantProblemDetailsFactory>();
+    //builder.Services.AddSingleton<ProblemDetailsFactory, RestaurantProblemDetailsFactory>();
 }
 var app = builder.Build();
 {
@@ -31,6 +30,8 @@ var app = builder.Build();
     app.UseExceptionHandler("/error");
 
     app.UseHttpsRedirection();
+
+    app.UseAuthentication();
 
     app.UseAuthorization();
 
