@@ -7,7 +7,7 @@ using Microsoft.IdentityModel.Tokens;
 using RestaurantManager.Application.Common.Interfaces.Authentication;
 using RestaurantManager.Application.Common.Interfaces.Services;
 using RestaurantManager.Infrastructure.Authentication;
-using RestaurantManager.Infrastructure.Presistence;
+using RestaurantManager.Infrastructure.Persistence;
 using RestaurantManager.Infrastructure.Services;
 using System.Text;
 
@@ -30,19 +30,19 @@ namespace RestaurantManager.Infrastructure
             services.AddSingleton(Options.Create(JwtSettings));
             //services.Configure<JwtSettings>(configuration.GetSection(JwtSettings.SectionName));
             services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
-            services.AddAuthentication(defaultScheme: JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options=>options.TokenValidationParameters= new TokenValidationParameters
+            services.AddAuthentication(defaultScheme: JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options => options.TokenValidationParameters = new TokenValidationParameters
             {
                 ValidateIssuer = true,
                 ValidateAudience = true,
                 ValidateLifetime = true,
                 ValidateIssuerSigningKey = true,
-                ValidIssuer=JwtSettings.Issuer,
+                ValidIssuer = JwtSettings.Issuer,
                 ValidAudience = JwtSettings.Audience,
-                IssuerSigningKey = 
+                IssuerSigningKey =
                 new SymmetricSecurityKey(
                     Encoding.UTF8.GetBytes(JwtSettings.Secret)
                 )
-        });
+            });
             return services;
         }
 

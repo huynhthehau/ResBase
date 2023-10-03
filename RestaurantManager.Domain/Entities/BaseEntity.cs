@@ -1,6 +1,6 @@
 namespace RestaurantManager.Domain.Entities
 {
-    public class BaseEntity
+    public abstract class BaseEntity
     {
         public virtual Guid Id { get; protected set; }
         public DateTime CreatedAt { get; set; }

@@ -10,3 +10,6 @@ A:\RestaurantManager\RestaurantManager.Application\obj\Debug\net6.0\RestaurantMa
 A:\RestaurantManager\RestaurantManager.Application\obj\Debug\net6.0\refint\RestaurantManager.Application.dll
 A:\RestaurantManager\RestaurantManager.Application\obj\Debug\net6.0\RestaurantManager.Application.pdb
 A:\RestaurantManager\RestaurantManager.Application\obj\Debug\net6.0\ref\RestaurantManager.Application.dll
+A:\RestaurantManager\RestaurantManager.Application\bin\Debug\net6.0\RestaurantManager.Domain.dll
+A:\RestaurantManager\RestaurantManager.Application\bin\Debug\net6.0\RestaurantManager.Domain.pdb
+a:\RestaurantManager\RestaurantManager.Application\obj\Debug\net6.0\RestaurantManager.Application.csproj.CopyComplete

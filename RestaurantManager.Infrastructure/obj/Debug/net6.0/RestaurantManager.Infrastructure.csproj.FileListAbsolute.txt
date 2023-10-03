@@ -13,3 +13,5 @@ A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\Restauran
 A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\refint\RestaurantManager.Infrastructure.dll
 A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\RestaurantManager.Infrastructure.pdb
 A:\RestaurantManager\RestaurantManager.Infrastructure\obj\Debug\net6.0\ref\RestaurantManager.Infrastructure.dll
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Domain.dll
+A:\RestaurantManager\RestaurantManager.Infrastructure\bin\Debug\net6.0\RestaurantManager.Domain.pdb

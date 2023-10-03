@@ -38,3 +38,13 @@ A:\RestaurantManager\RestaurantManager.Api\obj\Debug\net6.0\ref\RestaurantManage
 A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Npgsql.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\RestaurantManager.Domain.dll
+A:\RestaurantManager\RestaurantManager.Api\bin\Debug\net6.0\RestaurantManager.Domain.pdb
